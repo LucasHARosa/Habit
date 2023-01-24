@@ -1,10 +1,21 @@
+<style>
+  .j{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+</style>
 # Habits
 
 <strong>Habits</strong> é uma aplicação de ponta a ponta para web e mobile criada no evento da <strong>Rockeatseat</strong> chamado "Next Level Week Setup" realizada na terceira semana de 2023. O caminho escolhido para esse projeto foi o ignite que abrange tecnologias como <em>TypeScript, NodeJs, React, React Native, SQLite e muitas outras bibliotecas e tecnologias, algumas delas podem ser vistas no "info.md"</em>.
 
 <h2 > <strong>Sobre a aplicação:</strong> </h2>
 Trata-se de uma aplicação onde o usuário pode controlar hábitos que deseja para o seu cotidiano
-<img src="./Imagens/Wallpaper - 1920x1080.png" alt="">
+
+<p align="center">
+    <img height="200" src="./Imagens/Wallpaper - 1920x1080.png" alt="">
+</p>
+
 
 ### Home
 
@@ -33,4 +44,6 @@ Clicando em algum dia da tabela podemos ver as informações relacionadas aos h�
 
 A aplicação tanto Web como Mobile consome o mesmo back-end, por isso as informações são as mesmas e as telas são bem parecidas
 
-<img src="./Imagens/Media_230123_202355.gif" alt="">
+<p align="center">
+    <img class="j" src="./Imagens/Media_230123_202355.gif" alt="">
+</p>
