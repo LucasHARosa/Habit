@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Habit_NLW_SETUP)
 # Habits
 
 <strong>Habits</strong> é uma aplicação de ponta a ponta para web e mobile criada no evento da <strong>Rockeatseat</strong> chamado "Next Level Week Setup" realizada na terceira semana de 2023. O caminho escolhido para esse projeto foi o ignite que abrange tecnologias como <em>TypeScript, NodeJs, React, React Native, SQLite e muitas outras bibliotecas e tecnologias, algumas delas podem ser vistas no "info.md"</em>.
